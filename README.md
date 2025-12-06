@@ -330,3 +330,10 @@ while True:
     elif ch == 5: edit()
     elif ch == 6: delete()
     else: print('Invalid Input\n\n')
+    
+
+    elif ch == 3: break 
+    elif ch == 4: insert() 
+    elif ch == 5: edit()
+    elif ch == 6: delete()
+    else: print('Invalid Input\n\n')
